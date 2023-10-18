@@ -1,0 +1,5 @@
+AI ROBOTS 
+AI-powered robots are augmented with a variety of sensors (including vision devices such as 2D/3D cameras, vibration sensors, proximity
+sensors, accelerometers, and other environmental sensors,that feed them with sensing data they can analyze and act upon in real-time.
+The current categorization system categorizes AI into four basic categories: reactive, theory of mind, limited memory, and self-aware.
+There are top 5 humanoid robots invented using AI,they are Nadine, Geminoid DK, JUNCO CHIHIRA, Jia Jia, and Sophia.
